@@ -9,7 +9,7 @@ const settings = {
 
 //Home Page
 const greeting = {
-  title: "Welcome to my space",
+  title: "Welcome",
   title2: "Jesús Coy",
   full_name: "Jesús Coy López",
   subTitle:
@@ -29,7 +29,7 @@ const socialMediaLinks = {
 const skills = {
   data: [
     {
-      title: "Full Stack Development",
+      title: "Project Engineer",
       fileName: "FullStackImg",
       skills: [
         "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
