@@ -11,8 +11,6 @@ const settings = {
 const greeting = {
   title: "Welcome to my space",
   title2: "Jesús Coy",
-  logo_name: "JCL()",
-  nickname: "JCL / picleric",
   full_name: "Jesús Coy López",
   subTitle:
     "Project Engineer. Always improving.",
