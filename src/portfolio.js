@@ -9,27 +9,23 @@ const settings = {
 
 //Home Page
 const greeting = {
-  title: "Hello 👋.",
-  title2: "Harikrushn",
-  logo_name: "harry.k()",
-  nickname: "harry / picleric",
-  full_name: "Harikrushn Kanani",
+  title: "Welcome to my space",
+  title2: "Jesús Coy",
+  logo_name: "JCL()",
+  nickname: "JCL / picleric",
+  full_name: "Jesús Coy López",
   subTitle:
-    "Full Stack Developer, Open Source Enthusiast 🔥. Always learning.",
+    "Project Engineer. Always improving.",
   resumeLink:
     "https://docs.google.com/document/d/1A_jWRG74Rst427tg1izLa6vRXclS9_9F856jWJPJlDY/edit?usp=sharing",
-  mail: "mailto:hkanani191@gmail.com",
+  mail: "mailto:jesus.coy13@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/harikanani",
-  linkedin: "https://www.linkedin.com/in/harikrushn-kanani/",
-  gmail: "hkanani191@gmail.com",
-  gitlab: "https://gitlab.com/harikanani",
-  facebook: "https://www.facebook.com/harikrishan.kanani/",
-  twitter: "https://twitter.com/Harikrushn9",
-  instagram: "https://www.instagram.com/hari_kanani_/",
+  github: "https://github.com/coytton",
+  linkedin: "https://www.linkedin.com/in/jesus-coy-lopez/",
+  gmail: "jesus.coy13@gmail.com",
 };
 
 const skills = {
