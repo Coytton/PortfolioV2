@@ -15,7 +15,7 @@ const greeting = {
   subTitle:
     "Project Engineer. Always improving.",
   resumeLink:
-    "https://docs.google.com/document/d/1A_jWRG74Rst427tg1izLa6vRXclS9_9F856jWJPJlDY/edit?usp=sharing",
+    "https://drive.google.com/file/d/1FApNhpoGMKsfeAfMYc4M1sbQEvo8dDwd/view?usp=sharing",
   mail: "mailto:jesus.coy13@gmail.com",
 };
 
