@@ -43,7 +43,6 @@ const skills = {
           skillName: "Microsoft SQL Server",
           fontAwesomeClassname: "simple-icons:microsoftsqlserver",
           style: {
-            backgroundColor: "#FFFFFF",
             color: "#FA0A0A",
           },
         },
@@ -80,14 +79,14 @@ const skills = {
           skillName: "C",
           fontAwesomeClassname: "simple-icons:c",
           style: {
-            color: "#E94E32",
+            color: "#5494EC",
           },
         },
         {
           skillName: "C++",
           fontAwesomeClassname: "simple-icons:cplusplus",
           style: {
-            color: "#E94E32",
+            color: "#0451BC",
           },
         },
         {
@@ -108,7 +107,7 @@ const skills = {
           skillName: "Powerpoint",
           fontAwesomeClassname: "simple-icons:microsoftpowerpoint",
           style: {
-            color: "#FFA820A",
+            color: "#E94E32",
           },
         },
         {
@@ -116,6 +115,27 @@ const skills = {
           fontAwesomeClassname: "simple-icons:microsoftexcel",
           style: {
             color: "#249B03",
+          },
+        },
+        {
+          skillName: "Grafana",
+          fontAwesomeClassname: "simple-icons:grafana",
+          style: {
+            color: "#FCBA00",
+          },
+        },
+        {
+          skillName: "Bookstack",
+          fontAwesomeClassname: "simple-icons:grafana",
+          style: {
+            color: "#00F2FC",
+          },
+        },
+        {
+          skillName: "Sharepoint",
+          fontAwesomeClassname: "simple-icons:grafana",
+          style: {
+            color: "#13D3BD",
           },
         },
       ],
