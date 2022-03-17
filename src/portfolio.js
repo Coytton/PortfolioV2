@@ -126,14 +126,14 @@ const skills = {
         },
         {
           skillName: "Bookstack",
-          fontAwesomeClassname: "simple-icons:grafana",
+          fontAwesomeClassname: "simple-icons:bookstack",
           style: {
             color: "#00F2FC",
           },
         },
         {
           skillName: "Sharepoint",
-          fontAwesomeClassname: "simple-icons:grafana",
+          fontAwesomeClassname: "simple-icons:microsoftsharepoint",
           style: {
             color: "#13D3BD",
           },
