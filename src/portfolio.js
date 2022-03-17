@@ -97,6 +97,13 @@ const skills = {
           },
         },
         {
+          skillName: "Anaconda",
+          fontAwesomeClassname: "simple-icons:anaconda",
+          style: {
+            color: "#3FEC33",
+          },
+        },
+        {
           skillName: "Basecamp",
           fontAwesomeClassname: "simple-icons:basecamp",
           style: {
@@ -136,6 +143,27 @@ const skills = {
           fontAwesomeClassname: "simple-icons:microsoftsharepoint",
           style: {
             color: "#13D3BD",
+          },
+        },
+        {
+          skillName: "Filezilla",
+          fontAwesomeClassname: "simple-icons:filezilla",
+          style: {
+            color: "#B60300",
+          },
+        },
+        {
+          skillName: "Redis",
+          fontAwesomeClassname: "simple-icons:redis",
+          style: {
+            color: "#E90400",
+          },
+        },
+        {
+          skillName: "Notepad++",
+          fontAwesomeClassname: "simple-icons:notepadplusplus",
+          style: {
+            color: "#53F048",
           },
         },
       ],
