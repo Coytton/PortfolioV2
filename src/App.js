@@ -10,6 +10,7 @@ import ReactGA from "react-ga";
 
 function App() {
   useEffect(() => {
+    document.title = "Jesús Coy | Portfolio"
     if (settings.googleTrackingID) {
       ReactGA.initialize(settings.googleTrackingID, {
         testMode: process.env.NODE_ENV === "test",
